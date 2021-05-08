@@ -1,14 +1,14 @@
 # Roll The Ball
-> Simple game where sphere is controlled by player, try to collect all crystals and dont get killed by spikes.
+> Simple game where ball is controlled by player who tries to collect all crystals and don't get killed by spikes.
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Contact](#contact)
+* [Author](#author)
 
 ## General info
-This game was made for DaftCode summer internship recruitment.
+This game was made for DaftCode for summer internship recruitment.
 
 ## Technologies
 * Unity - version 2019.3.8f
@@ -16,9 +16,9 @@ This game was made for DaftCode summer internship recruitment.
 * .NET Core - version 3.0
 
 ## Setup
-You need to setup Unity in the version mentioned above.
+You need to setup Unity in the version that was mentioned above.
 Clone project: `git clone https://github.com/dzaleski/Roll-The-Ball.git`
 Open with Unity and click play!
 
-## Contact
-Created by [@dzaleski](dzaleski@o2.pl) - feel free to contact me!
+## Author
+Created by Daniel Załęski.
