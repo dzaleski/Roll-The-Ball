@@ -15,7 +15,7 @@ This game was made for DaftCode for summer internship recruitment.
 * Unity - version 2019.3.8f
 * C# - version 7.3
 * .NET Core - version 3.0
-* 
+
 ## Screenshots
 ![screen](https://user-images.githubusercontent.com/39300625/117843031-c2dfc380-b27e-11eb-8dee-efa471291131.png)
 
