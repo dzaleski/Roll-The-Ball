@@ -20,7 +20,7 @@ This game was made for DaftCode for summer internship recruitment.
 ![screen](https://user-images.githubusercontent.com/39300625/117843031-c2dfc380-b27e-11eb-8dee-efa471291131.png)
 
 ## Setup
-Download build: `https://drive.google.com/file/d/1glE0Cj_otx6rDbTVFAmKKTatnzNET1pX/view?usp=sharing`
+Download build of game here: [Link of Roll The Ball build](https://drive.google.com/file/d/1glE0Cj_otx6rDbTVFAmKKTatnzNET1pX/view?usp=sharing/)
 
 You need to setup Unity in the version that was mentioned above.
 Clone project: `git clone https://github.com/dzaleski/Roll-The-Ball.git`
